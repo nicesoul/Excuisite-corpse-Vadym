@@ -5,9 +5,9 @@
 - and another one
 - continue until satisfied
 
-*This is a text unrelevant to growing a forest*
+*This is a text irrelevant to growing a forest*
 -Sorry about that.
->Good luck Vadym!  
+>Good luck, Vadym!  
   
 ```python
 while True:
@@ -15,5 +15,5 @@ while True:
 ```  
   
 Don't cut the trees of your forest  
-~~Otherwise it isn't go to be a forest anymore!~~  
+~~Otherwise it isn't going to be a forest anymore!~~  
 **But keep planting trees**  
