@@ -5,8 +5,8 @@
 - and another one
 - continue until satisfied
 
-*This is a text irrelevant to growing a forest*
--Sorry about that.
+*This is a text irrelevant to growing a forest*<br/>
+-&nbsp;Sorry about that.
 >Good luck, Vadym!  
   
 ```python
