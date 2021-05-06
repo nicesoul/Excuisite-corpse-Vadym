@@ -7,4 +7,10 @@
 
 *This is a text unrelevant to growing a forest*
 -Sorry about that.
->Good luck Vadym!
+>Good luck Vadym!  
+  
+```python
+while True:
+    plant_tree()
+```  
+
