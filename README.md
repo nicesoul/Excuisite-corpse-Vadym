@@ -13,4 +13,7 @@
 while True:
     plant_tree()
 ```  
-
+  
+Don't cut the trees of your forest  
+~~Otherwise it isn't go to be a forest anymore!~~  
+**But keep planting trees**  
